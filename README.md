@@ -7,6 +7,7 @@
 ## 🌐 Live Demo
 
 📍 https://sentinox.onrender.com
+- It may take times due to large models size.
 
 ---
 
@@ -50,6 +51,22 @@ Sentinox-AI/
 │── README.md
 ```
 
+---
+## ⚙️ Installation & Run Locally
+
+1️⃣ Clone Repository
+```
+git clone https://github.com/arghyadip-17/sentinox.git
+cd sentinox
+```
+2️⃣ Install Dependencies
+```
+pip install -r requirements.txt
+```
+3️⃣ Run App
+```
+streamlit run app.py
+```
 ---
 
 ## 📸 Features Preview
