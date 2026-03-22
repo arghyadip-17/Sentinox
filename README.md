@@ -68,6 +68,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ---
+## Run with Dev Container
+
+Open in GitHub Codespaces or VS Code and click:
+"Reopen in Container"
 
 ## 📸 Features Preview
 
